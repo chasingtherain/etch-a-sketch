@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    
+
+}
+#container{
+    display: flex;
+    justify-content: flex-start;
+    align-items:flex-start;
+    flex-wrap: wrap;
+    gap:0px;
+}
+.grid-box{
+    margin: 0;
+    padding: 0;
+}
